@@ -1,0 +1,17 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/*Fonts*/
+@import url('https://fonts.googleapis.com/css?family=Montserrat+Alternates');
+
+body { 
+	padding-bottom: 70px;
+}
+
+img #logo {
+	width: 100%;
+}
+
+h6 #visit {
+	font-family: 'Montserrat Alternates', sans-serif !important;
+}
