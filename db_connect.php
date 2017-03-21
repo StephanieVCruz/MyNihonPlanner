@@ -1,6 +1,6 @@
 <?php
 
-$mysqli = new mysqli("localhost", "st437983", "Clueless1!", "st437983");
+$mysqli = new mysqli("localhost", "st437983", "Pass123", "st437983");
 
 if($mysqli->error)
 	{
